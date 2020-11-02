@@ -1,0 +1,18 @@
+Outer window is 0x7200001, inner window is 0x7200002
+
+KeymapNotify event, serial 24, synthetic NO, window 0x0,
+    keys:  0   0   0   0   16  0   0   0   0   0   0   0   0   0   0   0   
+           0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeyRelease event, serial 25, synthetic NO, window 0x7200001,
+    root 0x17b, subw 0x0, time 98268799, (448,359), root:(506,481),
+    state 0x0, keycode 36 (keysym 0xff0d, Return), same_screen YES,
+    XLookupString gives 1 bytes: (0d) ""
+    XFilterEvent returns: False
+
+KeymapNotify event, serial 26, synthetic NO, window 0x0,
+    keys:  123 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+           0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+ClientMessage event, serial 28, synthetic YES, window 0x7200001,
+    message_type 0x145 (WM_PROTOCOLS), format 32, message 0x143 (WM_DELETE_WINDOW)

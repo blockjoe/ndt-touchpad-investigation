@@ -1,0 +1,21 @@
+[?25l[?7ljoe@pop-os 
+---------- 
+OS: Pop!_OS 20.04 LTS x86_64 
+Host: Alienware 14 A07 
+Kernel: 5.4.0-7634-generic 
+Uptime: 4 days, 21 hours, 35 mins 
+Packages: 2800 (dpkg), 10 (flatpak), 4 (snap) 
+Shell: bash 5.0.17 
+Resolution: 1920x1080 
+DE: GNOME 
+WM: Mutter 
+WM Theme: Pop 
+Theme: Pop-dark [GTK2/3] 
+Icons: Pop [GTK2/3] 
+Terminal: gnome-terminal 
+CPU: Intel i7-4700MQ (8) @ 3.400GHz 
+GPU: Intel 4th Gen Core Processor 
+GPU: NVIDIA GeForce GTX 765M 
+Memory: 4491MiB / 15893MiB 
+
+[?25h[?7h
