@@ -5,15 +5,14 @@ Nexdock Touch touchpad.
 
 ## Dependencies
 
-xinput
-libinput
-xev
-neofetch 
+- xinput
+- libinput-tools
+- xev
+- neofetch 
 
 ## Usage/Explanation
 
 scripts: This is the directory that houses any scripts I used while testing.
-  - filter-keys-pressed.sh: This takes a file as its argument and will translate the keyboard events into the corresponding key that was was pressed.
   - get-gesture-devives.sh: This will list any devices that libinput reports support gestures.
   - get-input-devices.sh: This will list the devices that xinput detects
   - get-system-info.sh: This will give an overview of the current system using neofetch.
