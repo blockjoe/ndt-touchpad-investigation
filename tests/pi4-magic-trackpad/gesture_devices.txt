@@ -1,0 +1,18 @@
+Device:           Apple Inc. Magic Trackpad 2
+Kernel:           /dev/input/event8
+Group:            2
+Seat:             seat0, default
+Size:             162x115mm
+Capabilities:     pointer gesture
+Tap-to-click:     disabled
+Tap-and-drag:     enabled
+Tap drag lock:    disabled
+Left-handed:      disabled
+Nat.scrolling:    disabled
+Middle emulation: disabled
+Calibration:      n/a
+Scroll methods:   *two-finger edge 
+Click methods:    button-areas *clickfinger 
+Disable-w-typing: enabled
+Accel profiles:   none
+Rotation:         n/a
