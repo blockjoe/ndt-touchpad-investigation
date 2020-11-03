@@ -1,0 +1,120 @@
+Outer window is 0x1e00001, inner window is 0x1e00002
+
+EnterNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 811763, (172,78), root:(1522,229),
+    mode NotifyNormal, detail NotifyNonlinear, same_screen YES,
+    focus YES, state 0
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 811764, (172,78), root:(1522,229),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 811779, (167,78), root:(1517,229),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 811859, (165,78), root:(1515,229),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 812131, (156,77), root:(1506,228),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 812147, (142,75), root:(1492,226),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 812163, (125,72), root:(1475,223),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 812179, (110,67), root:(1460,218),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 812195, (100,62), root:(1450,213),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 812211, (95,58), root:(1445,209),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 812259, (93,58), root:(1443,209),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 812275, (92,58), root:(1442,209),
+    state 0x0, is_hint 0, same_screen YES
+
+LeaveNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 813184, (92,58), root:(1442,209),
+    mode NotifyGrab, detail NotifyNonlinear, same_screen YES,
+    focus YES, state 0
+
+EnterNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 814259, (92,58), root:(1442,209),
+    mode NotifyUngrab, detail NotifyNonlinear, same_screen YES,
+    focus YES, state 64
+
+LeaveNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 815321, (92,58), root:(1442,209),
+    mode NotifyGrab, detail NotifyNonlinear, same_screen YES,
+    focus YES, state 0
+
+EnterNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 816499, (92,58), root:(1442,209),
+    mode NotifyUngrab, detail NotifyNonlinear, same_screen YES,
+    focus YES, state 64
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 817396, (90,61), root:(1440,212),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 817412, (87,72), root:(1437,223),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 817428, (82,96), root:(1432,247),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 817444, (79,130), root:(1429,281),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 817460, (75,165), root:(1425,316),
+    state 0x0, is_hint 0, same_screen YES
+
+LeaveNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 817476, (73,191), root:(1423,342),
+    mode NotifyNormal, detail NotifyNonlinear, same_screen YES,
+    focus YES, state 0
+
+EnterNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 818980, (149,125), root:(1499,276),
+    mode NotifyNormal, detail NotifyNonlinear, same_screen YES,
+    focus YES, state 0
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 818982, (149,125), root:(1499,276),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 818996, (163,81), root:(1513,232),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 819012, (174,52), root:(1524,203),
+    state 0x0, is_hint 0, same_screen YES
+
+LeaveNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 819028, (182,34), root:(1532,185),
+    mode NotifyNormal, detail NotifyNonlinear, same_screen YES,
+    focus YES, state 0
+
+ClientMessage event, serial 25, synthetic YES, window 0x1e00001,
+    message_type 0x129 (WM_PROTOCOLS), format 32, message 0x127 (WM_DELETE_WINDOW)

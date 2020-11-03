@@ -1,0 +1,124 @@
+Outer window is 0x1e00001, inner window is 0x1e00002
+
+KeymapNotify event, serial 18, synthetic NO, window 0x0,
+    keys:  78  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+           0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeymapNotify event, serial 24, synthetic NO, window 0x0,
+    keys:  78  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+           0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeymapNotify event, serial 24, synthetic NO, window 0x0,
+    keys:  78  0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   
+           32  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeyRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x1e00002, time 852414, (37,60), root:(1387,211),
+    state 0x40, keycode 133 (keysym 0xffeb, Super_L), same_screen YES,
+    XLookupString gives 0 bytes: 
+    XFilterEvent returns: False
+
+KeyRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x1e00002, time 852414, (37,60), root:(1387,211),
+    state 0x0, keycode 40 (keysym 0x64, d), same_screen YES,
+    XLookupString gives 1 bytes: (64) "d"
+    XFilterEvent returns: False
+
+KeymapNotify event, serial 26, synthetic NO, window 0x0,
+    keys:  113 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   
+           32  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeymapNotify event, serial 26, synthetic NO, window 0x0,
+    keys:  113 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   
+           32  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeyRelease event, serial 28, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x1e00002, time 853550, (37,60), root:(1387,211),
+    state 0x40, keycode 133 (keysym 0xffeb, Super_L), same_screen YES,
+    XLookupString gives 0 bytes: 
+    XFilterEvent returns: False
+
+KeyRelease event, serial 28, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x1e00002, time 853550, (37,60), root:(1387,211),
+    state 0x0, keycode 40 (keysym 0x64, d), same_screen YES,
+    XLookupString gives 1 bytes: (64) "d"
+    XFilterEvent returns: False
+
+KeymapNotify event, serial 28, synthetic NO, window 0x0,
+    keys:  113 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   
+           32  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeyRelease event, serial 28, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x1e00002, time 854646, (37,60), root:(1387,211),
+    state 0x40, keycode 133 (keysym 0xffeb, Super_L), same_screen YES,
+    XLookupString gives 0 bytes: 
+    XFilterEvent returns: False
+
+KeyRelease event, serial 28, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x1e00002, time 854646, (37,60), root:(1387,211),
+    state 0x0, keycode 40 (keysym 0x64, d), same_screen YES,
+    XLookupString gives 1 bytes: (64) "d"
+    XFilterEvent returns: False
+
+KeymapNotify event, serial 28, synthetic NO, window 0x0,
+    keys:  113 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   
+           32  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeymapNotify event, serial 28, synthetic NO, window 0x0,
+    keys:  113 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   
+           32  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeyRelease event, serial 28, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x1e00002, time 855903, (37,60), root:(1387,211),
+    state 0x40, keycode 133 (keysym 0xffeb, Super_L), same_screen YES,
+    XLookupString gives 0 bytes: 
+    XFilterEvent returns: False
+
+KeyRelease event, serial 28, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x1e00002, time 855903, (37,60), root:(1387,211),
+    state 0x0, keycode 40 (keysym 0x64, d), same_screen YES,
+    XLookupString gives 1 bytes: (64) "d"
+    XFilterEvent returns: False
+
+KeymapNotify event, serial 28, synthetic NO, window 0x0,
+    keys:  113 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   
+           32  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeyRelease event, serial 28, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x1e00002, time 856887, (37,60), root:(1387,211),
+    state 0x40, keycode 133 (keysym 0xffeb, Super_L), same_screen YES,
+    XLookupString gives 0 bytes: 
+    XFilterEvent returns: False
+
+KeyRelease event, serial 28, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x1e00002, time 856887, (37,60), root:(1387,211),
+    state 0x0, keycode 40 (keysym 0x64, d), same_screen YES,
+    XLookupString gives 1 bytes: (64) "d"
+    XFilterEvent returns: False
+
+KeymapNotify event, serial 28, synthetic NO, window 0x0,
+    keys:  113 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   
+           32  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeymapNotify event, serial 28, synthetic NO, window 0x0,
+    keys:  113 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   
+           32  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeyRelease event, serial 28, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x1e00002, time 858023, (37,60), root:(1387,211),
+    state 0x40, keycode 133 (keysym 0xffeb, Super_L), same_screen YES,
+    XLookupString gives 0 bytes: 
+    XFilterEvent returns: False
+
+KeyRelease event, serial 28, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x1e00002, time 858023, (37,60), root:(1387,211),
+    state 0x0, keycode 40 (keysym 0x64, d), same_screen YES,
+    XLookupString gives 1 bytes: (64) "d"
+    XFilterEvent returns: False
+
+KeymapNotify event, serial 28, synthetic NO, window 0x0,
+    keys:  113 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+           0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+ClientMessage event, serial 28, synthetic YES, window 0x1e00001,
+    message_type 0x129 (WM_PROTOCOLS), format 32, message 0x127 (WM_DELETE_WINDOW)
