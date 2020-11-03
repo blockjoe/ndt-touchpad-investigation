@@ -1,0 +1,2610 @@
+Outer window is 0x1e00001, inner window is 0x1e00002
+
+EnterNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2104951, (176,58), root:(1526,209),
+    mode NotifyNormal, detail NotifyNonlinear, same_screen YES,
+    focus YES, state 0
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2104952, (176,58), root:(1526,209),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2104959, (173,58), root:(1523,209),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2104975, (170,58), root:(1520,209),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2104983, (167,58), root:(1517,209),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2104999, (164,58), root:(1514,209),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105007, (162,58), root:(1512,209),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105023, (159,58), root:(1509,209),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105031, (158,58), root:(1508,209),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105047, (156,57), root:(1506,208),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105055, (154,56), root:(1504,207),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105071, (152,55), root:(1502,206),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105079, (150,53), root:(1500,204),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105095, (147,52), root:(1497,203),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105103, (145,51), root:(1495,202),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105119, (143,50), root:(1493,201),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105129, (141,50), root:(1491,201),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105143, (140,49), root:(1490,200),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105153, (137,48), root:(1487,199),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105167, (134,47), root:(1484,198),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105177, (129,47), root:(1479,198),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105191, (125,46), root:(1475,197),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105201, (122,45), root:(1472,196),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105215, (120,44), root:(1470,195),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105225, (117,44), root:(1467,195),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105241, (116,43), root:(1466,194),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105249, (114,42), root:(1464,193),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105265, (114,41), root:(1464,192),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105273, (112,41), root:(1462,192),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105289, (111,41), root:(1461,192),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105297, (108,41), root:(1458,192),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105313, (106,41), root:(1456,192),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105321, (105,40), root:(1455,191),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105337, (103,40), root:(1453,191),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105345, (102,40), root:(1452,191),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105361, (100,40), root:(1450,191),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105369, (99,40), root:(1449,191),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105393, (98,40), root:(1448,191),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105409, (98,39), root:(1448,190),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105417, (97,39), root:(1447,190),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105433, (97,38), root:(1447,189),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105457, (96,38), root:(1446,189),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105467, (95,37), root:(1445,188),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105481, (94,36), root:(1444,187),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105491, (92,36), root:(1442,187),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105505, (91,36), root:(1441,187),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105515, (89,36), root:(1439,187),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105531, (88,36), root:(1438,187),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105555, (87,36), root:(1437,187),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105563, (86,36), root:(1436,187),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2105579, (85,36), root:(1435,187),
+    state 0x0, is_hint 0, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106161, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106161, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106169, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106169, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106185, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106185, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106185, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106185, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106201, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106201, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106201, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106201, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106217, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106217, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106217, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106217, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106233, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106233, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106249, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106249, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106249, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106249, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106347, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106347, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106347, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106347, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106347, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106347, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106395, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106395, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106395, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106395, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106395, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106395, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106443, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106443, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106443, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106443, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106443, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106443, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106491, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106491, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106491, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106491, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106491, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106491, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106539, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106539, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106539, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106539, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106587, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106587, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106587, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106587, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106637, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106637, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106637, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106637, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106685, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106685, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106685, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106685, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106733, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106733, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106733, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106733, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106903, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106903, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106903, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106903, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106919, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106919, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106919, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106919, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106935, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106935, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106935, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106935, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106951, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106951, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106951, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106951, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106951, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106951, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106967, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106967, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106967, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106967, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106967, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2106967, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107055, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107055, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107055, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107055, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107055, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107055, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107055, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107055, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107055, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107055, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107055, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107055, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107103, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107103, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107103, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107103, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107103, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107103, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107103, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107103, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107103, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107103, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107103, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107103, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107151, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107151, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107151, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107151, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107151, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107151, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107151, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107151, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107151, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107151, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107151, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107151, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107199, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107199, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107199, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107199, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107199, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107199, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107199, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107199, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107199, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107199, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107199, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107199, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107247, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107247, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107247, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107247, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107247, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107247, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107247, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107247, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107247, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107247, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107247, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107247, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107297, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107297, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107297, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107297, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107297, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107297, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107297, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107297, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107297, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107297, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107297, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107297, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107345, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107345, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107345, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107345, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107345, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107345, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107345, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107345, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107345, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107345, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107345, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107345, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107393, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107393, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107393, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107393, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107393, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107393, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107393, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107393, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107393, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107393, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107393, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107393, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107563, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107563, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107563, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107563, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107579, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107579, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107579, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107579, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107579, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107579, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107595, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107595, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107595, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107595, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107595, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107595, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107611, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107611, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107611, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107611, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107611, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107611, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107627, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107627, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107627, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107627, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107627, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107627, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107643, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107643, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107643, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107643, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107643, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107643, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107731, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107731, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107731, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107731, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107731, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107731, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107731, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107731, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107731, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107731, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107731, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107731, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107779, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107779, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107779, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107779, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107779, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107779, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107779, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107779, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107779, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107779, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107779, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107779, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107829, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107829, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107829, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107829, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107829, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107829, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107829, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107829, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107829, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107829, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107829, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107829, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107877, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107877, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107877, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107877, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107877, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107877, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107877, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107877, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107877, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107877, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107877, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107877, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107925, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107925, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107925, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107925, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107925, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107925, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107925, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107925, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107925, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107925, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107925, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107925, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107973, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107973, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107973, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107973, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107973, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107973, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107973, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107973, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107973, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107973, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107973, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2107973, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108021, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108021, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108021, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108021, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108021, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108021, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108021, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108021, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108021, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108021, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108021, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108021, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108069, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108069, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108069, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108069, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108069, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108069, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108069, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108069, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108069, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108069, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108069, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108069, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108255, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108255, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108255, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108255, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108255, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108255, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108271, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108271, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108271, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108271, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108271, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108271, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108279, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108279, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108279, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108279, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108279, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108279, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108295, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108295, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108295, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108295, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108295, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108295, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108295, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108295, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108311, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108311, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108311, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108311, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108311, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108311, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108433, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108433, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108433, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108433, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108433, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108433, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108433, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108433, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108433, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108433, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108433, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108433, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108481, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108481, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108481, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108481, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108481, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108481, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108481, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108481, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108481, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108481, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108481, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108481, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108529, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108529, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108529, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108529, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108529, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108529, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108529, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108529, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108529, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108529, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108529, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108529, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108577, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108577, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108577, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108577, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108577, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108577, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108577, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108577, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108577, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108577, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108577, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108577, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108627, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108627, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108627, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108627, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108627, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108627, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108627, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108627, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108627, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108627, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108627, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108627, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108675, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108675, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108675, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108675, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108675, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108675, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108675, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108675, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108675, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108675, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108675, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108675, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108723, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108723, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108723, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108723, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108723, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108723, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108723, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108723, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108723, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108723, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108723, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108723, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108771, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108771, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108771, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108771, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108771, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108771, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108771, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108771, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108771, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108771, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108771, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108771, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108819, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108819, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108819, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108819, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108819, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108819, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108819, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108819, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108819, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108819, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108867, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108867, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108867, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108867, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108867, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108867, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108867, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108867, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108867, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108867, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108915, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108915, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108915, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108915, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108915, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108915, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108915, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108915, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108915, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2108915, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109101, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109101, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109101, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109101, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109117, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109117, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109117, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109117, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109117, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109117, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109133, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109133, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109133, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109133, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109133, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109133, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109133, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109133, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109149, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109149, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109149, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109149, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109149, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109149, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109231, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109231, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109231, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109231, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109231, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109231, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109231, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109231, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109231, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109231, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109231, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109231, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109279, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109279, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109279, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109279, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109279, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109279, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109279, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109279, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109279, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109279, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109279, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109279, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109327, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109327, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109327, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109327, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109327, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109327, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109327, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109327, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109327, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109327, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109327, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109327, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109375, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109375, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109375, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109375, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109375, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109375, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109375, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109375, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109375, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109375, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109375, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109375, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109423, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109423, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109423, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109423, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109423, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109423, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109423, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109423, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109423, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109423, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109423, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109423, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109471, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109471, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109471, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109471, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109471, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109471, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109471, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109471, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109471, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109471, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109471, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109471, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109521, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109521, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109521, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109521, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109521, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109521, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109521, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109521, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109521, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109521, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109521, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109521, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109569, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109569, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109569, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109569, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109569, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109569, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109569, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109569, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109569, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109569, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+ButtonPress event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109569, (85,36), root:(1435,187),
+    state 0x0, button 5, same_screen YES
+
+ButtonRelease event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109569, (85,36), root:(1435,187),
+    state 0x1000, button 5, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109673, (87,38), root:(1437,189),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109681, (91,40), root:(1441,191),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109697, (100,43), root:(1450,194),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109705, (118,51), root:(1468,202),
+    state 0x0, is_hint 0, same_screen YES
+
+MotionNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109721, (149,63), root:(1499,214),
+    state 0x0, is_hint 0, same_screen YES
+
+LeaveNotify event, serial 25, synthetic NO, window 0x1e00001,
+    root 0x371, subw 0x0, time 2109729, (188,77), root:(1538,228),
+    mode NotifyNormal, detail NotifyNonlinear, same_screen YES,
+    focus YES, state 0
+
+ClientMessage event, serial 25, synthetic YES, window 0x1e00001,
+    message_type 0x129 (WM_PROTOCOLS), format 32, message 0x127 (WM_DELETE_WINDOW)

@@ -1,0 +1,24 @@
+Outer window is 0x1e00001, inner window is 0x1e00002
+
+KeymapNotify event, serial 21, synthetic NO, window 0x0,
+    keys:  9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+           0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeymapNotify event, serial 24, synthetic NO, window 0x0,
+    keys:  9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+           0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeymapNotify event, serial 24, synthetic NO, window 0x0,
+    keys:  9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+           0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeymapNotify event, serial 24, synthetic NO, window 0x0,
+    keys:  9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+           0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+KeymapNotify event, serial 24, synthetic NO, window 0x0,
+    keys:  9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+           0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   
+
+ClientMessage event, serial 25, synthetic YES, window 0x1e00001,
+    message_type 0x129 (WM_PROTOCOLS), format 32, message 0x127 (WM_DELETE_WINDOW)
